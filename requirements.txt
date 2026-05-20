@@ -7,3 +7,4 @@ xgboost
 plotly
 matplotlib
 seaborn
+flask
